@@ -1,3 +1,17 @@
+# About Project
+This project is developed using ReactJS and with the help of [Chakra UI](https://chakra-ui.com/).
+This is an React Web Application which can be used for cryptocurrency tracking and exchanges of coins.
+You can track the coins using thses web app on daily basis.
+There is exchange component to exchange the coins.
+You can access these web application here [xcrypto-cryto-app](https://crypto-app-rust-ten.vercel.app)
+
+# What is Chakra UI ?
+Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+Building accessible and responsive UIs is crucial for ensuring an inclusive user experience. Chakra UI prioritizes accessibility and provides built-in accessibility features like screen reader support, ARIA attributes, and keyboard navigation.
+
+# Difference between Chakra UI and Bootstrap 
+Bootstrap Styled belongs to "Front-End Frameworks" category of the tech stack, while Chakra UI can be primarily classified under "UI Components". 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
